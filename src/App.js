@@ -14,7 +14,7 @@ class App extends Component {
   componentWillMount(){
     this.setState({project: [
       {
-         category: 'Dressers'
+         category: 'Dresser'
       },
       {
          category: 'Desk'
